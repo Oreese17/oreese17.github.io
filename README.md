@@ -1,2 +1,2 @@
 # oreese17.github.io
-Blitz Website
+Blitz - Privacy Policy
