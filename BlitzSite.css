@@ -1,0 +1,19 @@
+body {
+	background-color: lightgrey;
+	font-family: "Franklin Gothic", Calibri, sans-serif; /* IBM Plex Sans */
+	width: 600px;
+}
+
+.centeredText {
+	text-align: center;
+}
+
+#container {
+	text-align: left;
+	width: 100%;
+}
+
+#innerDiv {
+	margin: 0 auto;
+	display: inline-block;
+}
